@@ -1,6 +1,6 @@
 # 北理工大学物理实验指导V1.0
 
-​	北京理工大学大一上开设有《大学物理实验Ⅰ》课程，学生须在[选课网站](https://webvpn.bit.edu.cn/https/77726476706e69737468656265737421e8fc0f9e2e2426557a1dc7af96/xsxkapp/sys/xsxkapp/*default/index.do)上选修十门物理实验课程，并根据课后提交的实验报告评分。
+​	北京理工大学大一下开设有《大学物理实验Ⅰ》课程，学生须在[选课网站](https://webvpn.bit.edu.cn/https/77726476706e69737468656265737421e8fc0f9e2e2426557a1dc7af96/xsxkapp/sys/xsxkapp/*default/index.do)上选修十门物理实验课程，并根据课后提交的实验报告评分。
 
 >实验报告 = 预习报告 + 原始数据 + 数据处理 + 思考题
 
